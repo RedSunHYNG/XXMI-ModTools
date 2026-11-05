@@ -1,0 +1,7 @@
+# 仅支持一行一个。# 本文件配置注释符号: #
+# ‘[’符号开头代表删除节点名为此的节点和其内容,例如: 
+# [CommandListExamplePosition]# [CommandListExampleblend]# ‘;’符号开头代表删除此注释开头的所有内容,例如: 
+# ;Overrides
+# ;CommandList
+;Relay Credit System 
+[AAA]

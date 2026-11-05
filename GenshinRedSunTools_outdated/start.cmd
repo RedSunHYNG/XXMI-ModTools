@@ -1,0 +1,2 @@
+python ".\GenshinRedSunTools.py"
+pause
